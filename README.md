@@ -1,10 +1,15 @@
 # MVVM-Coordiator practice
 
-In this Code you can find Architecture MVVM with Coordinator. 
+In this code you can find Architecture MVVM with Coordinator and other stuff which you can use in your project. 
 
-Also A have practice with Coordinator and find: 
-- How can pass data to new ViewController. 
+Also I have practice with Coordinator and other. 
+
+Implement some things: 
+- MVVM + Coordinator.
 - Create child Cooridnator.
-- Implement back back to previous ViewCOntroller.
+- How can pass data to new ViewController. 
+- Implement back to previous ViewCOntroller.
 - Create own class for TableViewDataSoure.
-- implement closure
+- Implement closure.
+
+Enjoy it!
